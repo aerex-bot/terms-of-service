@@ -1,9 +1,6 @@
 # Aerex Terms of Service
 *Last Updated: 9/12/2021*
 
-> **🚧 Terms of Service Under Construction 🚧**
-> While we are making our final changes to this new terms page, we will be updating this page frequently. This new terms page will be active on **Friday, September 17th, 2021**.
-
 ## Introduction:
 Welcome to the official Aerex Terms of Service document. In here, you will find our terms of use and rules that you must abide by while using Aerex. If you have any questions, please reach out to us by [joining our support server](https://discord.gg/BYuUvE4).
 
