@@ -19,7 +19,7 @@ While using Aerex, you may not do _any_ of the following. If caught doing so, yo
 10. You may not spam Aerex. Spamming commands will get you blacklisted automatically by the anti-spam system and this action will generally not be appealed unless you have a very good reason for it.
 
 ## Global Chat Rules:
-Our global chat system has its own separate rules due to it being a more independent service. Please check out our global chat guidelines [here](https://github.com/aerex-bot/global_chat-guidelines). You will be expected to follow and uphold said guidelines if you or your server users the globat feature.
+Our global chat system has its own separate rules due to it being a more independent service. Please check out our global chat guidelines [here](https://github.com/aerex-bot/global_chat-guidelines). You will be expected to follow and uphold said guidelines if you or your server uses the global chat feature.
 
 ## Reporting Others:
 If you find out that an individual or a Discord server is breaking Aerex's terms, please feel free to report them. You may [join the support server]([https://discord.gg/BYuUvE4) and submit an anonymous report by Direct Messaging a staff member in the server, or by running the built in `report` command by Aerex. Both will ensure anonymity from the user you are reporting.
