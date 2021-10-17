@@ -1,5 +1,5 @@
 # Aerex Terms of Service
-*Last Updated: 9/12/2021*
+*Last Updated: 10/17/2021*
 
 ## Introduction:
 Welcome to the official Aerex Terms of Service document. In here, you will find our terms of use and rules that you must abide by while using Aerex. If you have any questions, please reach out to us by [joining our support server](https://discord.gg/BYuUvE4).
@@ -17,6 +17,9 @@ While using Aerex, you may not do _any_ of the following. If caught doing so, yo
 8. The server you invite Aerex in must abide by the [Discord Terms of Service](https://discord.com/terms) and the [Discord Guidelines](https://discord.com/guidelines). Harmful servers (such as bot farms, etc.) will result in immediate removal of the bot followed by a server-based blacklist.
 9. You may not sell AirCoins for any form of actual currency (such as US dollars, etc.) or store AirCoins in an alternate account. AirCoins have no monetary value. However, you may give away AirCoins that you collected for free.
 10. You may not spam Aerex. Spamming commands will get you blacklisted automatically by the anti-spam system and this action will generally not be appealed unless you have a very good reason for it.
+
+## Global Chat Rules:
+Our global chat system has its own separate rules due to it being a more independent service. Please check out our global chat guidelines [here](https://github.com/aerex-bot/global_chat-guidelines). You will be expected to follow and uphold said guidelines if you or your server users the globat feature.
 
 ## Reporting Others:
 If you find out that an individual or a Discord server is breaking Aerex's terms, please feel free to report them. You may [join the support server]([https://discord.gg/BYuUvE4) and submit an anonymous report by Direct Messaging a staff member in the server, or by running the built in `report` command by Aerex. Both will ensure anonymity from the user you are reporting.
